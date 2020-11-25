@@ -1,0 +1,31 @@
+{
+    "short_name": "MyanmarDevJobs",
+    "name": "Jobs for Developers and Designers",
+    "icons": [
+        {
+            "src": "/img/icons/96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "gcm_sender_id": "482941778795",
+    "related_applications": [
+        {
+            "platform": "web"
+        }
+    ],
+    "orientation": "portrait",
+    "theme_color": "#2a333c"
+}
